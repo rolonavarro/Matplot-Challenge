@@ -1,0 +1,19 @@
+## Observations
+
+•	Looking at the different drugs and their effect on the tumor size, 
+it is clear how Capomulin is one of the most effective drugs. It was the 
+most used drug and one of the best drugs to shrink the tumor size. For example, 
+on average Capomulin was effective in shrinking the tumor volume from 45mm t0 36.2mm. 
+
+
+•	I went ahead and look at the mice that got treated with Capomulin and made a graph. 
+By grouping all of the mice and getting the average size at each timepoint there is a clear trend 
+where the volume of the tumor decreases with time. Ramicane and Capomulin where the only drugs that have a 
+positive effect on the shrinkage of the tumor. The other drugs either made the tumor grow or had 
+no effect on the mice. Ramicane seems to be the best drug.  On average at the end of the test the volume
+of the tumor was 34.9mm compared to the 36.2mm of Capomulin.
+
+•	I also concluded that as the weight of the mice increases it was harder for the drug to 
+have an effect on the tumor. On a scatter plot I showed these two variables together and how weight and 
+tumor volume are correlated. If the mice is more on the heavy side of the observation in general the 
+tumor did not change it’s volume. It looks like the drug has more effect for mice that weight less than 17g.  
